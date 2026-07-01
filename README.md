@@ -25,3 +25,6 @@
 
 ### Class Diagram
 ![alt_text](https://github.com/RizkiAdityaFajar/RPL-314251020026-Rizki-Aditya-Fajar1/blob/main/architektur/Diagram%20UML/class%20diagram.jpeg?raw=true)
+
+### Sequence Diagram
+![alt_text](https://github.com/RizkiAdityaFajar/RPL-314251020026-Rizki-Aditya-Fajar1/blob/main/architektur/Diagram%20UML/sequence%20diagram.jpeg?raw=true)
