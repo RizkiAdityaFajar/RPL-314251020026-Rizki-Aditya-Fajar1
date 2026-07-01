@@ -20,7 +20,7 @@
 ## Diagram UML akademik kampus
 
 
-### use case diagram
+### use case Diagram
 ![alt_text](https://github.com/RizkiAdityaFajar/RPL-314251020026-Rizki-Aditya-Fajar1/blob/main/architektur/Diagram%20UML/use%20case.jpeg?raw=true)
 
 ### Class Diagram
@@ -28,3 +28,7 @@
 
 ### Sequence Diagram
 ![alt_text](https://github.com/RizkiAdityaFajar/RPL-314251020026-Rizki-Aditya-Fajar1/blob/main/architektur/Diagram%20UML/sequence%20diagram.jpeg?raw=true)
+
+### Activity Diagram
+![alt_text](https://github.com/RizkiAdityaFajar/RPL-314251020026-Rizki-Aditya-Fajar1/blob/main/architektur/Diagram%20UML/activity%20diagram.jpeg?=true)
+
